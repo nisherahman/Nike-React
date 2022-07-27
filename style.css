@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.common-color{
+    color:#3E3E3E;
+}
+.orange-color{
+    color:#FA804C;
+}
+/* common css ends */
+
+/* navbar part starts */
+.bg-pink{
+    background: #FFF9F4;
+}
+.navbar .navbar-brand img{
+    width:260px;
+}
+/* slider part sarts */
+.slider-h1{
+    color:#FA804C;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 80px;
+}
+.slider-h1-run{
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 80px;
+}
+.slider-p{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+.slider-img-width {
+	width: 62%;
+	margin-left: 100px;
+}
+/* slider part ends */
+
+/* shoes part starts */
+.card{
+    border-radius: 20px;
+}
+.shoes-head{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 48px;
+}
+.card-img-bg{
+    width: 334px;
+    height: 327px;
+    background: #F1F1F1;
+    border-radius: 20px;
+    margin: 20px auto;
+}
+.card-title{
+    color:#363958;
+    font-weight:700;
+    font-size:24px;
+    font-family: 'Roboto', sans-serif;
+}
