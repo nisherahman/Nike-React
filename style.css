@@ -78,3 +78,17 @@
 	margin-top: 25px;
 }
 /* seller part ends */
+
+/* =============== responsive css starts ============*/
+@media (min-width:768px) and (min-width:992px) {
+    /* shoes part starts */
+    .card-title {
+        font-size: 22px !important;
+    }
+    .card-img-bg {
+        width: 268px !important;
+        height: 292px !important;
+    }
+    /* shoes part ends */
+}
+/* =============== responsive css ends ============*/
